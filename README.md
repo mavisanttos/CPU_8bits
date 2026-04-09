@@ -49,7 +49,7 @@
 
 **1. Flip-Flops D**
 
-&emsp; O registrador é composto por 8 Flip-Flops tipo D, assim, é poss´vel realizar a manipulação bit a bit. Uma vez que o sinal de controle (C_IR) é ativado, o valor da instrução fica "travado" nas saídas Q, independentemente do que aconteça no barramento de dados da RAM depois disso.
+&emsp; O registrador é composto por 8 Flip-Flops tipo D, assim, é possível realizar a manipulação bit a bit. Uma vez que o sinal de controle (C_IR) é ativado, o valor da instrução fica "travado" nas saídas Q, independentemente do que aconteça no barramento de dados da RAM depois disso.
 
 **2. Splitters**
 
@@ -197,6 +197,6 @@
 
 ### 5.5. Simulação
 
-&emsp; Aqui é possível observar a operação da CPU: [Vídeo de Demonstração]()
+&emsp; Aqui é possível observar a operação da CPU: [Vídeo de Demonstração](https://youtu.be/MeV3rQZhMJs)
 
 &emsp; A implementação desta CPU demonstra a viabilidade de construir sistemas complexos a partir de blocos lógicos fundamentais. Através da simulação apresentada no vídeo acima, é possível validar que a Unidade de Controle coordena o fluxo de dados pelo barramento, garantindo que cada instrução seja decodificada e executada no tempo correto do clock.

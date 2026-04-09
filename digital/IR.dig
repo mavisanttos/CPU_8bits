@@ -648,7 +648,7 @@
         </entry>
         <entry>
           <string>NetName</string>
-          <string>Q0</string>
+          <string>Q5</string>
         </entry>
       </elementAttributes>
       <pos x="680" y="80"/>
@@ -662,7 +662,7 @@
         </entry>
         <entry>
           <string>NetName</string>
-          <string>Q1</string>
+          <string>Q6</string>
         </entry>
       </elementAttributes>
       <pos x="660" y="100"/>
@@ -676,7 +676,7 @@
         </entry>
         <entry>
           <string>NetName</string>
-          <string>Q2</string>
+          <string>Q7</string>
         </entry>
       </elementAttributes>
       <pos x="680" y="120"/>
